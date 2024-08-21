@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8f945e11-e335-4d9e-a6bb-d076a2ba7887)
 ![image](https://github.com/user-attachments/assets/ca91a4f7-d615-4bd2-b2a4-45db1a4db579)
 
 # Educational Resource Sharing
