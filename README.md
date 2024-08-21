@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ca91a4f7-d615-4bd2-b2a4-45db1a4db579)
 
-# Educational Resource Sharing
+# Educational Resource Sharing System
 
 # Overview
 
