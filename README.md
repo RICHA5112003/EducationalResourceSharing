@@ -16,7 +16,7 @@ Teachers can upload educational materials, specifying details such as title, URI
 
 Users can retrieve specific materials or obtain a paginated list of available materials, with public materials being accessible in a paginated format. The contract also manages ether transactions, recording all received ether and emitting events to ensure transparency.
 
-#Project Vision:
+# Project Vision:
 The vision for the EducationalMaterials contract is to establish a decentralized and transparent platform for educational resource management. By leveraging blockchain technology, the project aims to empower educators and learners, removing centralized control and fostering peer-to-peer interactions and content sharing.
 Transparency is a key objective, with blockchain providing an immutable record of all actions related to material management and user interactions. The platform aims to enhance accessibility by allowing global access to educational resources, promoting open education and collaboration among educators.
 
