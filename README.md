@@ -1,15 +1,15 @@
 ![image](https://github.com/user-attachments/assets/8f945e11-e335-4d9e-a6bb-d076a2ba7887)
 
-#Educational Resource Sharing
+# Educational Resource Sharing
 
-#Contract Address:
+# Contract Address:
 0xc0541f3803184597dbAb2078c0F1a9De828f849D
 
-#Project Description:
+# Project Description:
 The EducationalMaterials contract is designed to serve as a decentralized platform for managing educational resources on the Ethereum blockchain. This smart contract facilitates the uploading, updating, and deletion of educational materials by users assigned specific roles, primarily teachers. It supports settings for public visibility, allowing materials to be accessed by everyone, or kept private. Additionally, the contract handles ether transactions, enabling the tracking of contributions made to the platform.
 This contract integrates several mechanisms including user registration, role assignments, and material management. By leveraging Ethereum's smart contract capabilities, it ensures transparency and immutability, offering a decentralized approach to educational content control.
 
-#Key Features:
+# Key Features:
 The EducationalMaterials contract offers several notable features. Firstly, users must register to interact with the system, ensuring that only authenticated individuals can upload or manage materials. Role management is integral to the system, with Teachers having the authority to upload, update, or delete materials, and to assign roles to other users.
 
 Teachers can upload educational materials, specifying details such as title, URI (which links to the content), and whether the material is public or private. They also have the ability to update or delete their materials as needed. Materials marked as public are accessible to anyone, whereas private materials are restricted to the uploader.
